@@ -65,14 +65,6 @@ python gui.py
 
 ---
 
-## 📚 روابط مفيدة
-
-* [Download VolumeID.exe (Sysinternals)](https://learn.microsoft.com/en-us/sysinternals/downloads/volumeid)
-* [WMI Command Reference](https://learn.microsoft.com/en-us/windows/win32/wmisdk/wmi-start-page)
-* [UUID Specification](https://datatracker.ietf.org/doc/html/rfc4122)
-
----
-
 ## 📂 هيكل المشروع
 
 ```
